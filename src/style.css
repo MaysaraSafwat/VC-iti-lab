@@ -4,7 +4,11 @@
  box-sizing: border-box;   
 }
 
+h2{
+
+  background-color: yellow;
+}
 h1 {
 display: inline;
-color : #89CFF0;
+color : #05a2ec;
 }
