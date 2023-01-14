@@ -10,13 +10,9 @@ h2{
 }
 h1 {
 display: inline;
-<<<<<<< HEAD
-color : #05a2ec;
-=======
 color : #f0b789;
 }
 h2{
     display: inline;
 color : #246f91;    
->>>>>>> b0f41b0f236852b645983e1058a2e5d5ae8137cc
 }
